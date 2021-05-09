@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Avin@a-coder-s
-- 👀 I’m interested in ML, OS, I2C, RPi, gaming/games among a lot of other stuff.
-- 🌱 I’m currently learning coding process, Pygame, git/github, VScode, Selenium and a few more things.
+- 👋 Hi, I’m Avin@a-coder-s.
+- 👀 I’m interested in assembling PCs, tinkering with Arduino/RPi, ML, gaming/games, learning and discovery, among a lot of other stuff.
+- 🌱 I’m currently learning Python with Pygame, git/github, VScode, Selenium and a few other things.
 - 💞️ I’m looking to collaborate on ... nothing for now.
 - 📫 How to reach me ... TBD.
 
